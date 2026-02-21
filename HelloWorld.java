@@ -4,7 +4,7 @@
     public static void main(String[] args) {
         System.out.println("Hello, SE4111!");
         System.out.println("Welcome to Software Construction");
-        System.out.println("Second Lab");
+        System.out.println("This is the Sumaia branch");
 
             }
 }
